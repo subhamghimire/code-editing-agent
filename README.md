@@ -202,10 +202,6 @@ As I've been learning and building this project, I've realized that the core of 
 
 I'm hopeful that by sharing this journey, others can learn and build upon these basics too. The barrier to entry is lower than you might think, and I'm excited to see where this can take us.
 
-## License
-
-MIT License - feel free to build upon this!
-
 ---
 
 _"It's an LLM, a loop, and enough tokens. The rest is elbow grease."_ - Thorsten Ball
