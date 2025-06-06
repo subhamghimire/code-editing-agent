@@ -197,12 +197,9 @@ We're not just building a code editor - we're showing that:
 - 💡 **"Magic" is often just** good engineering
 
 ## 💭 A Final Thought
+As I've been learning and building this project, I've realized that the core of a code-editing agent isn't as complex as I initially thought. With just 300 lines of Python and three simple tools, you can create something powerful. While there's always room for more features—like editor integration, a better UI, or multi-agent support—I believe starting with these fundamentals has helped me understand the magic behind it all.
 
-This is truly what it takes to build a code-editing agent - just 300 lines of Python and three simple tools.
-
-While you could add more features like editor integration, better UI, or multi-agent support, the core magic lies in this simple implementation. The models are powerful enough that this basic setup can already do incredible things.
-
-Try it yourself - I promise you'll be surprised by how far you can go with just these fundamentals. That's what makes this moment in AI so exciting - the barrier to entry is lower than you think.
+I'm hopeful that by sharing this journey, others can learn and build upon these basics too. The barrier to entry is lower than you might think, and I'm excited to see where this can take us.
 
 ---
 
